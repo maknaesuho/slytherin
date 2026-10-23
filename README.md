@@ -47,7 +47,6 @@ Based on the dashboard and statistical findings, the following actions are recom
 ---
 
 ## 📂 Deliverables & Project Files
-* **[Jupyter Notebook (Wrangling, EDA, & Hypothesis Testing)](./vanguard_ab_test_clean.ipynb)**
-* **[Tableau Dashboard Data Sources](./tableau_outputs/)**
-* **[Executive Presentation (Google Slides)](#)**
-* **[Trello Kanban Board](#)**
+* **Jupyter Notebook (Wrangling, EDA, & Hypothesis Testing)**
+* **Tableau Dashboard Data Sources**
+* **Executive Presentation (Google Slides)(#)**
